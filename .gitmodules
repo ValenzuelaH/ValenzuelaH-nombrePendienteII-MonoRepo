@@ -1,0 +1,6 @@
+[submodule "nombrePendienteII"]
+	path = nombrePendienteII
+	url = https://github.com/GonzaloGuasch/nombrePendienteII
+[submodule "nombrePendienteII-Front"]
+	path = nombrePendienteII-Front
+	url = https://github.com/ValenzuelaH/nombrePendienteII-Front
